@@ -1,4 +1,4 @@
-#FIND MOSTUSED WORDS
+#FIND MOST USED WORDS
 
 Find the most common words
    Counting word occurrence
